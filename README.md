@@ -1,2 +1,2 @@
-# Bitscoper_Gallery_of_Historic_Technologies
+# Bitscoper Gallery of Historic Technologies
 Presenting various historic technologies
